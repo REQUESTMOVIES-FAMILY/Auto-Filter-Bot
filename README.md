@@ -28,7 +28,7 @@
 
 
 
-#### You can call this as an Auto Filter Bot if you like :D
+#### You can call this as an Auto Filter Bot if you like this.
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -45,7 +45,7 @@
 
 Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [REQUESTMOVIES](https://telegram.dog/RM_MOVIESGROUP)
 
 
 ## Installation
